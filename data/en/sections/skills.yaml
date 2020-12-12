@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Microsoft Excel
+  icon: "/images/sections/skills/excel.png"
+  summary: "Advanced skills in formating cells, creating tables and organizing data in Excel on both desktop and mobile devices. I use my certification with Excel in both professional and academic setting."
+  url: "https://www.microsoft.com/en/microsoft-365/excel"
+
+- name: R Programming
+  icon: "/images/sections/skills/r.png"
+  summary: "Using R as the main programming language for data science. Capable of conducting Data Visualization, Data Transformation, Exploratory Data Analysis, Data Wrangling and Modeling."
+  url: "https://www.r-project.org/"
+
+- name: Powerpoint Presentation
+  icon: "/images/sections/skills/powerpoint.png"
+  summary: "Capable of creating professional presentations using dynamic elements such as videos, visually representes data and interactive modules."
+  url: "https://www.microsoft.com/en/microsoft-365/powerpoint"
+  
+- name: Microsoft Word
+  icon: "/images/sections/skills/word.png"
+  summary: "Advanced skills in formating documents and editing content in Microsoft Office. I use the program for research and creation of professional documents"
+  url: "https://www.microsoft.com/en/microsoft-365/word"
+
+- name: Ubuntu
+  icon: "/images/sections/skills/ubuntu.png"
+  summary: "Using Ubuntu as my secondary operating system."
+  url: "https://ubuntu.com/"

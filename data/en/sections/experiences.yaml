@@ -1,0 +1,46 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Kenyatta University.
+    url: "http://www.ku.ac.ke/"
+    location: Nairobi, Kenya
+    # company overview
+    overview: Kenyatta University is one of the leading universities in Kenya judging by the quality of service offered to both students and staff. Kenyatta University is equiped with modern technology thus provide conducive working and learning environment.
+  positions:
+  - designation: Actuarial Intern
+    start: Feb 2020
+    end: Nov 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Participated in the review and approval of budget requisitions for the year 2021.
+    - Commited numerous votebook entries for payment payment authorization.
+    - Verification of details and accounting documents for Imprest Warrants and Payment vouchers.
+    - Verification overpayments made in the students payment account.
+    - Posting of bursary payments to the Student Fee Payment Account.
+    
+- company:
+    name: Kenya National Bureau of Statistics (KNBS).
+    url: "http://www.knbs.or.ke/"
+    location: Nairobi Kenya
+    overview: KNBS acts as the principal agency of the Government for collecting, analysing and disseminating statistical data in Kenya.
+  positions:
+  - designation: Junior statistical Officer
+    start: Jul 2019
+    end: Sep 2019
+    responsibilities:
+    - Testing and implementation of Computer Assisted Personal Interview (CAPI) for the 2019 Housing and Population Census.
+    - Data collection.
+    - Resolving problematic data issues.
+    - Compiling reports on the 2019 Housing And population Census.

@@ -1,0 +1,16 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Degree in Bachelor of Science (B.Sc.) Actuarial Science from the Multimedia University of Kenya.
