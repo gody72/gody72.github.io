@@ -1,0 +1,12 @@
+---
+title: "Credibility Theory and Loss Models"
+date: 2020-12-13T08:06:25+06:00
+hero: /posts/introduction/hero.svg
+description: Credibility Theory
+menu:
+  sidebar:
+    name: Credibility Theory
+    identifier: credibility theory
+    weight: 10
+---
+What premium should be charged to provide insurance? The answer depends upon the exposure to the risk of loss.
