@@ -1,0 +1,12 @@
+---
+title: R Markdown
+author: Godfrey Wambete
+date: '2020-12-13'
+slug: []
+categories:
+  - Rmd
+tags:
+  - .Rmd
+---
+
+Hello Markdown, I'm switching to R Markdown.
